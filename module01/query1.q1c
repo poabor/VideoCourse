@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<querylist>
+	<query name="Номенклатура">
+		<text>ВЫБРАТЬ
+	Номенклатура.Ссылка
+ИЗ
+	Справочник.Номенклатура КАК Номенклатура
+</text>
+		<parameters>
+			<parameter name="Параметр" type="Строка" value=""/>
+		</parameters>
+	</query>
+</querylist>
